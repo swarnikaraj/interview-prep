@@ -21,6 +21,9 @@ Implement a distributed cron job scheduler
 Support for retry mechanisms
 Job priority queue implementation
 
+Implement LRU Cache without using the queue data structure. a solution using Linked-list.
+Given a linked list of size n where any node can contain 0, 1 or 2. You have to sort the given linked list. You can’t modify the value of any node. Expected Time Complexity – O(n).
+
 
 For Python (SDE 2/3)
 
